@@ -1,0 +1,14 @@
+.marquee{
+  line-height: 70px;
+  height: 70px;  
+  background-image: linear-gradient(to right top, #051937, #00466d, #007aa0, #00b2c8, #12ebe3);
+  margin-bottom: -6px;
+}
+.marquee span{
+   margin: 0px 50px;
+}
+.marquee span a{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+}
